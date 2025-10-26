@@ -1,0 +1,10 @@
+{
+	"NotFound": {
+		"title": "404 | Page Not Found",
+		"description": "Oh oh! Page was not found.",
+		"back": "Return to home page"
+	},
+	"Header": {
+		"home": "Home"
+	}
+}

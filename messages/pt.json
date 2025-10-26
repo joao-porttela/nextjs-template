@@ -1,0 +1,10 @@
+{
+	"NotFound": {
+		"title": "404 | Página não encontrada",
+		"description": "Oh oh! Página não encontrada.",
+		"back": "Volte para pagina inicial"
+	},
+	"Header": {
+		"home": "Início"
+	}
+}
